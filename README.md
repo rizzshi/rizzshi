@@ -2,7 +2,7 @@
 
 # Rishi Singh (`@rizzshi`)
 ### Founder & Systems Architect &bull; AI Security &bull; Quantitative Intelligence
-**Singapore 🇸🇬 &bull; Algorzen Pte. Ltd.**
+**Singapore 🇸🇬 &bull; Orvyen**
 
 [![GitHub followers](https://img.shields.io/github/followers/rizzshi?label=Follow&style=social)](https://github.com/rizzshi)
 [![Orvyen Agentic](https://img.shields.io/badge/Orvyen_Agentic-v0.3.0-blue?logo=shield)](https://github.com/orvyen/orvyen-agentic)
@@ -42,7 +42,7 @@
 * **[Helix](https://github.com/rizzshi/Helix)** &bull; *Hybrid Predictive & Driver Intelligence Engine*  
   Forecasts enterprise KPIs and attributes underlying variance via econometric forecasting, machine-learning driver models, and SHAP-based interpretability.
 * **[Pulse](https://github.com/rizzshi/Pulse)** &bull; *Real-Time Telemetry & Metric Drift Engine*  
-  Autonomous trend monitor under the Algorzen Research Division tracking live business metrics and compiling executive insight briefs.
+  Autonomous trend monitor tracking live business metrics and compiling executive insight briefs.
 * **[Vigil](https://github.com/rizzshi/Vigil)** &bull; *KPI Drift Detection & Anomaly Monitoring*  
   Time-series distribution monitoring with automated executive PDF reporting.
 * **[Eviden](https://github.com/rizzshi/Eviden)** &bull; *Autonomous Data Analytics Platform*  
